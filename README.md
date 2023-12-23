@@ -13,10 +13,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Agnivesh Pandita</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align ="right" alt="Coding" width="400" src= "https://as2.ftcdn.net/v2/jpg/05/68/98/15/1000_F_568981524_2irG4VUSs06xbahAihTpkuSfxKkw8FqX.jpg">
+<img align ="right" alt="Coding" width="500" height = " 300 " src= "https://as2.ftcdn.net/v2/jpg/05/68/98/15/1000_F_568981524_2irG4VUSs06xbahAihTpkuSfxKkw8FqX.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agni133&label=Profile%20views&color=0e75b6&style=flat" alt="agni133" /> </p>
 
