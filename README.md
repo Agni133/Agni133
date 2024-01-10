@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **php larvel , javascript and react js**
+- 🌱 I’m currently learning ** Javascript and react js  node js **
 
 - 📫 How to reach me **agniveshpandita12@gmail.com**
 
