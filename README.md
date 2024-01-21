@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning ** Javascript and react js  node js **
+- 🌱 I’m currently learning ** Javascript and react js  **
 
 - 📫 How to reach me **agniveshpandita12@gmail.com**
 
