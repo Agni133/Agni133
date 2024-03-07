@@ -8,11 +8,9 @@
 
 
 
-- 🌱 I’m currently learning ** Javascript and react js  **
+- 🌱 I’m currently learning ** javascript and react js  **
 
 - 📫 How to reach me **agniveshpandita12@gmail.com**
-
-- ⚡ Fun fact ** I am funny **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
