@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Agnivesh </h1>
 <h3 align="center">A passionate Entry level Software developer from India</h3>
-<img align ="right" alt="Coding" width="500" height = " 300 " src= "https://as2.ftcdn.net/v2/jpg/05/68/98/15/1000_F_568981524_2irG4VUSs06xbahAihTpkuSfxKkw8FqX.jpg">
+<img align ="right" alt="Coding" width="470" height = " 370" src= "https://storage.googleapis.com/pai-images/0b9a4f9b71264bfcb327bdd7eb7e7e75.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agni133&label=Profile%20views&color=0e75b6&style=flat" alt="agni133" /> </p>
 
