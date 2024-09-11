@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agni133&label=Profile%20views&color=0e75b6&style=flat" alt="agni133" /> </p>
 
 
-- 🌱 I’m currently learning **  React js and typescript  **
+- 🌱 I’m currently learning **  Aws and typescript  **
 
 - 📫 How to reach me **agniveshpandita12@gmail.com**
 
