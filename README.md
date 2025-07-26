@@ -11,12 +11,16 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/agnivesh-pandita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agnivesh-pandita" height="30" width="40" /></a>
+   <a href="https://peerlist.io/agnivesh223" target="blank"><img align="center" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/peerlist-fbqfqab7rv85o00tgo7zb.png/peerlist-dd44haqcm35iua7utuymk.png?_a=DATAg1AAZAA0" alt="agniveshpandita12" height="40" width="30" /></a>
+</p>
+<h3 align="left">Coding Platforms:</h3>
+<p align="left">
 <a href="https://www.leetcode.com/agni04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="agni04" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@agniveshpandita12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="agniveshpandita12" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/agniveshpandita12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="agniveshpandita12" height="30" width="40" /></a>
-   <a href="https://peerlist.io/agnivesh223" target="blank"><img align="center" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/peerlist-fbqfqab7rv85o00tgo7zb.png/peerlist-dd44haqcm35iua7utuymk.png?_a=DATAg1AAZAA0" alt="agniveshpandita12" height="40" width="30" /></a>
 </p>
 
+          
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
