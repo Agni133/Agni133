@@ -14,7 +14,6 @@
 <a href="https://www.leetcode.com/agni04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="agni04" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@agniveshpandita12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="agniveshpandita12" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/agniveshpandita12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="agniveshpandita12" height="30" width="40" /></a>
- <a href="https://codeforces.com/profile/agniveshpandita12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="agniveshpandita12" height="30" width="40" /></a>
    <a href="https://peerlist.io/agnivesh223" target="blank"><img align="center" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/peerlist-fbqfqab7rv85o00tgo7zb.png/peerlist-dd44haqcm35iua7utuymk.png?_a=DATAg1AAZAA0" alt="agniveshpandita12" height="40" width="30" /></a>
 </p>
 
