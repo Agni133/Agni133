@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agni133&label=Profile%20views&color=0e75b6&style=flat" alt="agni133" /> </p>
 
-- 🌱 I’m currently learning ** Devops and Nextjs  **
+- 🌱 I’m currently learning ** Docker and Nextjs  **
 
 - 📫 How to reach me **agniveshpandita12@gmail.com**
 
